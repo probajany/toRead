@@ -12,3 +12,7 @@ https://thinkster.io/learn-to-build-realtime-webapps
 
 AngularJS:
 https://thinkster.io/a-better-way-to-learn-angularjs
+
+http://devdocs.io/
+
+http://learnxinyminutes.com/
