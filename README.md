@@ -16,3 +16,6 @@ https://thinkster.io/a-better-way-to-learn-angularjs
 http://devdocs.io/
 
 http://learnxinyminutes.com/
+
+books so many books:
+http://it-ebooks.org/
