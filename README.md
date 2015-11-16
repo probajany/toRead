@@ -19,3 +19,6 @@ http://learnxinyminutes.com/
 
 books so many books:
 http://it-ebooks.org/
+
+some web dev links
+https://www.elegantthemes.com/blog/resources/the-best-web-development-tools-you-probably-arent-using
